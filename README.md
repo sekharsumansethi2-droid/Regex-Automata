@@ -30,8 +30,8 @@ A browser-based tool that converts a regular expression into an **ε-NFA** and *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/regex-automaton.git
-   cd regex-automaton
+   git clone https://github.com/sekharsumansethi2-droid/regex-automata.git
+   cd regex-automata
    ```
 
 2. Open `index.html` directly in your browser — no server or install needed:
