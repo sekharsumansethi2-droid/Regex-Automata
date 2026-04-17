@@ -1,5 +1,7 @@
 # RegEx → NFA / DFA Visualizer
 
+🌐 Live Demo: 
+
 A browser-based tool that converts a regular expression into an **ε-NFA** and **DFA** using **Thompson's Construction** and **Subset (Powerset) Construction** algorithms — and lets you simulate input strings against the generated automaton in real time.
 
 ---
